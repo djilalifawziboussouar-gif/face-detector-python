@@ -54,5 +54,3 @@ Haar cascades work best on frontal, well-lit faces and can miss tilted or partly
 ## Privacy
 Frames are processed locally and are not saved or sent anywhere.
 
-## License
-MIT
